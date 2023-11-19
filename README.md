@@ -3,7 +3,7 @@
 ------------------
 they well have .config files
 ------------------
-my dwm rice
+my dwm rice and dwl rice
 ------------------
 and more
 ------------------
