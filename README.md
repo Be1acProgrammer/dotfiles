@@ -1,4 +1,4 @@
-# ~/.config for linux
+# configs for linux
 ------------------
 they well have .config files
 ------------------
