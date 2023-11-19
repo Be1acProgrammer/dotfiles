@@ -1,4 +1,4 @@
-# this is a list of all my linux programs
+# ~/.config for linux
 ------------------
 they well have .config files
 ------------------
