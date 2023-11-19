@@ -10,4 +10,4 @@ if you have any I mean any questions please email me at:
 --
 githubhelp.hqu1p@simplelogin.com
 --
-** HAVE A FUNNY L00KING DAY!! **
+**HAVE A FUNNY L00KING DAY!!**
