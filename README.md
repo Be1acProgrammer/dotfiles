@@ -1,6 +1,6 @@
 # configs for linux
 ------------------
-they well have .config files
+they have .config files
 ------------------
 my dwm rice and dwl rice
 ------------------
@@ -10,3 +10,4 @@ if you have any I mean any questions please email me at:
 --
 githubhelp.hqu1p@simplelogin.com
 --
+** HAVE A FUNNY L00KING DAY!! **
