@@ -1,5 +1,4 @@
 # this is a list of all my linux programs
-
 ------------------
 they well have .config files
 ------------------
