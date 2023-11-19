@@ -5,5 +5,5 @@
 - credit @sephid86 github!
 
 ---
-from ttps://github.com/sephid86/archas/tree/master
+from https://github.com/sephid86/archas/tree/master
 --
