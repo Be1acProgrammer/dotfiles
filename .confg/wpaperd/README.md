@@ -140,6 +140,6 @@ be applied automatically.
 
 ## License
 
-**wpaperd** is licensed under the [GPL-3.0+](/LICENSE.md) license.
+**wpaperd** is licensed under the [GPL-3.0+](/LICENSE) license.
 
 [swaybg]: https://github.com/swaywm/swaybg
