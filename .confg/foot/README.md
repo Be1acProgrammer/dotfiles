@@ -1,4 +1,4 @@
-# ![a terminal with a foot shaped prompt] **da foot**
+# a terminal with a foot shaped prompt **da foot**
 
 The fast, lightweight and minimalistic Wayland terminal emulator.
 
