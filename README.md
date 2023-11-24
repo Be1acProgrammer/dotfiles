@@ -1,4 +1,6 @@
-my dwm rice and dwl rice
+# here are the **GREAT SETUPS!!**
+
+**rice??**
 ------------------
 
 ![Preview](./assets/screenshots/dwm-screenshot.png)
