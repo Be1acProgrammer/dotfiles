@@ -1,9 +1,10 @@
-# configs for linux
-------------------
-they have .config files
-------------------
 my dwm rice and dwl rice
 ------------------
+
+
+![Preview](./assets/screenshots/dwm-screenshot.png)
+
+
 and more
 ------------------
 if you have any I mean any questions please email me at:
