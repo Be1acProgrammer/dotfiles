@@ -4,8 +4,8 @@
 ![Preview](./assets/screenshots/dwm-screenshot.png)
 **cherrywm** my very mininal version of **dwm**!
 
-![Preview](./assets/screenshots/20231119_11h39m00s_grim.png)
-dwl + waybar a clean with no effects mininal wayland compositor
+![Preview](./assets/screenshots/dwl-NASA-Default.png)
+**dwl** + *waybar* a clean with no effects mininal wayland compositor!
 
 
 ## 
