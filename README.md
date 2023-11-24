@@ -2,10 +2,10 @@
 ------------------
 
 ![Preview](./assets/screenshots/dwm-screenshot.png)
-**cherrywm** my very mininal version of **dwm**!
+* **cherrywm** my very mininal version of **dwm**!
 
 ![Preview](./assets/screenshots/dwl-NASA-Default.png)
-**nerdwm** is my version of *dwl* + *waybar* a very clean with no effects mininal wayland compositor!
+* **nerdwm** is my version of *dwl* + *waybar* a very clean with no effects mininal wayland compositor!
 
 
 ## 
