@@ -1,4 +1,4 @@
-**rice??**
+*rice??*
 ------------------
 
 ![Preview](./assets/screenshots/dwm-screenshot.png)
