@@ -1,5 +1,3 @@
-# here are the **GREAT SETUPS!!**
-
 **rice??**
 ------------------
 
