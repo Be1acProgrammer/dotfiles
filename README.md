@@ -7,9 +7,9 @@
 ![Preview](./assets/screenshots/20231119_11h39m00s_grim.png)
 dwl + waybar a clean with no effects mininal wayland compositor
 
-------------------
+
+## 
 if you have any I mean any questions please email me at:
---
-githubhelp.hqu1p@simplelogin.com
---
-**HAVE A FUNNY L00KING DAY!!**
+
+# githubhelp.hqu1p@simplelogin.com
+#**HAVE A FUNNY L00KING DAY!!**
