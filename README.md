@@ -1,11 +1,12 @@
 my dwm rice and dwl rice
 ------------------
 
-
 ![Preview](./assets/screenshots/dwm-screenshot.png)
+**cherrywm** my very mininal version of **dwm**!
 
+![Preview](./assets/screenshots/20231119_11h39m00s_grim.png)
+dwl + waybar a clean with no effects mininal wayland compositor
 
-and more
 ------------------
 if you have any I mean any questions please email me at:
 --
