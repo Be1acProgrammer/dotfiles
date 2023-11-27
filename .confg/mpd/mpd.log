@@ -1,0 +1,48 @@
+Nov 20 00:39 : exception: Failed to open '/home/user/.mpd/mpdstate': No such file or directory
+Nov 20 00:39 : update: added /Cut The Check [NCS].mp4
+Nov 20 00:39 : update: added /Breathe [NCS].mp4
+Nov 20 00:40 : player: played "Breathe [NCS].mp4"
+Nov 20 00:43 : player: played "Cut The Check [NCS].mp4"
+Nov 20 00:44 : update: updating /Breathe [NCS].mp4
+Nov 20 00:44 : update: updating /Cut The Check [NCS].mp4
+Nov 20 00:48 : player: played "Breathe [NCS].mp4"
+Nov 20 00:52 : player: played "Cut The Check [NCS].mp4"
+Nov 20 00:52 : player: played "Breathe [NCS].mp4"
+Nov 20 00:53 : player: played "Breathe [NCS].mp4"
+Nov 20 00:57 : player: played "Breathe [NCS].mp4"
+Nov 20 01:24 : player: played "Breathe [NCS].mp4"
+Nov 20 01:31 : player: played "Breathe [NCS].mp4"
+Nov 20 01:31 : player: played "Breathe [NCS].mp4"
+Nov 20 01:46 : player: played "Breathe [NCS].mp4"
+Nov 20 01:46 : player: played "Cut The Check [NCS].mp4"
+Nov 20 01:48 : update: added /Desmeon - Hellcat NCS - Copyright Free Music-JSY6vBPunpY.mp4
+Nov 20 01:52 : update: removing Desmeon - Hellcat NCS - Copyright Free Music-JSY6vBPunpY.mp4
+Nov 20 01:52 : update: added /Hellcat NCS.m4a
+Nov 20 01:53 : update: removing Hellcat NCS.m4a
+Nov 20 01:53 : update: added /Hellcat NCS.mp4
+Nov 20 01:54 : update: removing Hellcat NCS.mp4
+Nov 20 01:55 : update: added /Hellcat NCS Desmeon.m4a
+Nov 20 02:03 : update: removing Hellcat NCS Desmeon.m4a
+Nov 20 02:03 : update: added /Hellcat Desmeon.m4a
+Nov 20 02:03 : update: added /Mistakes [NCS].mp4
+Nov 20 02:11 : player: played "Mistakes [NCS].mp4"
+Nov 20 02:15 : player: played "Hellcat Desmeon.m4a"
+Nov 20 02:16 : update: updating /Hellcat Desmeon.m4a
+Nov 20 02:16 : update: updating /Mistakes [NCS].mp4
+Nov 20 14:27 : player: played "Breathe [NCS].mp4"
+Nov 21 13:29 : player: played "Hellcat Desmeon.m4a"
+Nov 22 20:21 : player: played "Breathe [NCS].mp4"
+Nov 22 20:21 : player: played "Breathe [NCS].mp4"
+Nov 22 20:23 : player: played "Mistakes [NCS].mp4"
+Nov 22 21:21 : player: played "Breathe [NCS].mp4"
+Nov 26 21:22 : player: played "Breathe [NCS].mp4"
+Nov 26 22:22 : player: played "Breathe [NCS].mp4"
+Nov 27 05:08 : player: played "Cut The Check [NCS].mp4"
+Nov 27 05:35 : player: played "Breathe [NCS].mp4"
+Nov 27 05:37 : player: played "Breathe [NCS].mp4"
+Nov 27 05:37 : exception: Failed to create /home/user/.mpd/mpdstate: No such file or directory
+Nov 27 05:38 : player: played "Breathe [NCS].mp4"
+Nov 27 05:40 : exception: Failed to create /home/user/.mpd/mpdstate: No such file or directory
+Nov 27 05:49 : exception: Failed to create /home/user/.mpd/mpdstate: No such file or directory
+Nov 27 05:50 : player: played "Breathe [NCS].mp4"
+Nov 27 05:52 : exception: Failed to create /home/user/.mpd/mpdstate: No such file or directory
