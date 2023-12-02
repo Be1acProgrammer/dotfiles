@@ -1,4 +1,4 @@
-米: *🍚 Rice??*
+米: *Rice??*
 ------------------
 
 ![Preview](./assets/screenshots/dwm-screenshot.png)
