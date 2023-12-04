@@ -128,7 +128,7 @@ static const enum libinput_config_tap_button_map button_map = LIBINPUT_CONFIG_TA
 /* commands */
 static const char *termcmd[] = { "foot", NULL };
 static const char *menucmd[] = { "wofi", NULL };
-static const char *helpcmd[] = { "foot", "nano", "/home/user/.config/newnerdwm/test/dwl/help.md", NULL };
+static const char *helpcmd[] = { "foot", "nano", "~/.config/nerdwm/help.md", NULL };
 static const char *browcmd[] = { "librewolf", NULL };
 
 static const Key keys[] = {
