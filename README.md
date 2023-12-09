@@ -1,7 +1,8 @@
 🍧: *Rice??*
 ------------------
 
-![Preview](./assets/screenshots/dwm-screenshot.png)
+![Preview](./assets/screenshots/2023-12-08_21-32.png
+)
 * **cherrywm** my very mininal version of **dwm**!
 
 ![Preview](./assets/screenshots/dwl-NASA-Default.png)
