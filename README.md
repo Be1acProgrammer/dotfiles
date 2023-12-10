@@ -14,7 +14,7 @@
 
 * Hyprland wayland's very **Gucci** Like *Wayland Compositor*
 
-
+* WayFire wayland's very **flashy** and *unique* window manager
 
 ## 
 if you have any I mean any questions please email me at:
