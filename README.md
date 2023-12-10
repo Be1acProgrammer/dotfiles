@@ -10,7 +10,7 @@
 
 * The Best of the Best: Bspwm
 
-* EZ to use goat **Da i3!**
+* EZ to use goat **da i3!**
 
 ## 
 if you have any I mean any questions please email me at:
