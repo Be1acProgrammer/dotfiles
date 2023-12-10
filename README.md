@@ -12,6 +12,8 @@
 
 * EZ to use goat **da i3!**
 
+* Hyprland wayland's very **Gucci** Like *Wayland Compositor*
+
 ## 
 if you have any I mean any questions please email me at:
 
