@@ -8,6 +8,9 @@
 ![Preview](./assets/screenshots/dwl-NASA-Default.png)
 * **nerdwm** is my version of *dwl* + *waybar* a very clean with ```no effects``` mininal wayland compositor!
 
+<details>
+<summary><b>For Later</b></summary>
+
 * The Best of the Best: Bspwm
 
 * EZ to use goat **da i3!**
@@ -16,6 +19,7 @@
 
 * WayFire wayland's very **flashy** and *unique* window manager
 
+</details>
 ## 
 if you have any I mean any questions please email me at:
 
