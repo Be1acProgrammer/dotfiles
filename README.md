@@ -21,8 +21,8 @@
 
 </details>
 
-# 📕 Wiki
-Read Wiki [here](https://github.com/p3nguin-kun/penguinRice/wiki)
+# 📕 Wiki Please Read **IT!**
+Read The Wiki [here](https://github.com/p3nguin-kun/penguinRice/wiki)
 
 
 ## 
