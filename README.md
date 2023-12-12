@@ -21,6 +21,10 @@
 
 </details>
 
+# 📕 Wiki
+Read Wiki [here](https://github.com/p3nguin-kun/penguinRice/wiki)
+
+
 ## 
 if you have any I mean any questions please email me at: 
 
