@@ -19,6 +19,8 @@
 
 * WayFire wayland's very **flashy** and *unique* window manager
 
+* lol
+
 </details>
 
 # 📕 Wiki Please Read **IT!**
