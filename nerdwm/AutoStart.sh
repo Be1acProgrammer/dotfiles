@@ -1,4 +1,4 @@
 #!/bin/sh
 # atuostarting`
-waybar &
+waybar ~/.config/waybar/nerdwm-bar/ &
 wpaperd
