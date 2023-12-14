@@ -24,7 +24,7 @@
 </details>
 
 # 📕 Wiki Please Read **IT!**
-Read The Wiki [here](https://github.com/p3nguin-kun/penguinRice/wiki)
+Read The Wiki [here](https://github.com/Be1acProgrammer/dotfiles/wiki/)
 
 
 ## 
